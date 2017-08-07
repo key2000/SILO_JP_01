@@ -20,6 +20,7 @@ import java.util.*;
 
 public class SyntheticPopJP {
     private ResourceBundle rb;
+
     
     //Options to run de synthetic population
     protected static final String PROPERTIES_CONSTRAINT_BY_CITY_AND_CNTY  = "run.ipu.city.and.county";
